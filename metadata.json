@@ -1,0 +1,6 @@
+{
+  "name": "ALLDAY Home",
+  "description": "Centro de comando e painel inteligente para organização da rotina da família",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
